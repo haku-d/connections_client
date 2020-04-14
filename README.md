@@ -1,5 +1,13 @@
 # connections_client
 
+A basic front-end integrating with existing APIs including basic features such as listing of connection and updating connection type.
+
+**Libraries**
+
+- Vuex: state management
+- Axios: http communication
+- Vuetify: UI framework
+
 ## Project setup
 
 ```
